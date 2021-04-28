@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Χημεία παιχνίδι</string>
+
+  <!--Base game strings-->
+  <string name="high_score">ΚΑΛΥΤΕΡΟΣ/Η</string>
+  <string name="score">ΣΚΟΡ</string>
+  <string name="you_win">Νίκησες!</string>
+  <string name="game_over">Τέλος Παιχνιδιού</string>
+  <string name="info_title">Σχετικά με</string>
+  <string name="continue_button">Συνέχεια</string>
+  <string name="rate_title">Βαθμολογία</string>
+  <string name="try_again">Προσπάθησε ξανά</string>
+  <string name="start_again">Ξεκίνα πάλι</string>
+  <string name="ok">OK</string>
+  <string name="instructions"> Σύρετε το δάχτυλο σας για να μετακινήσετε τα πλακίδια. Όταν δύο πλακίδια περιέχουν το ίδιο χημικό στοιχείο, συγχωνεύονται σε ένα πλακίδιο με χημικό στοιχείο αυξημένο κατά 1! Ενώστε τα στοιχεία ώστε να φτιάξετε ένα πλακίδιο που θα περιέχει το χημικό στοιχείο Na !</string>
+
+  <!--Share message-->
+  <string name="share_title">Μοιράσου το</string>
+  <string name="current_points"> Το τρέχον σκορ μου είναι </string>
+  <string name="try_beat_me">",μπορείς να με νικήσεις; :)"</string>
+  <string name="share_message_title">Βρήκα ένα πολύ εθιστικό παιχνίδι!</string>
+  <string name="share_dialog_title">Μοιράσου το με τους φίλους σου.</string>
+  <string name="share_message_here">Να το:</string>
+  <string name="share_app_link">https://goo.gl/KoQ9V5</string>
+
+</resources>

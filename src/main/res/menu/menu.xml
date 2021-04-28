@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:title="@string/app_name"  >
+  <item
+      android:id="@+id/action_LeaderBoard"
+      android:icon="@drawable/outline_leaderboard_white_48"
+      android:title="@string/rate_title"
+      app:showAsAction="ifRoom" />
+
+  <item
+      android:id="@+id/action_login"
+      android:icon="@drawable/outline_login_white_48"
+      android:title="@string/login"
+      app:showAsAction="ifRoom"
+      />
+  <item
+      android:id="@+id/action_logout"
+      android:icon="@drawable/outline_logout_white_48"
+      android:title="@string/logout"
+      app:showAsAction="ifRoom"
+      />
+  <item
+      android:id="@+id/action_share"
+      android:icon="@drawable/ic_share_variant_white_48dp"
+      android:title="@string/share_title"
+      app:showAsAction="ifRoom"
+      />
+
+  <item
+      android:id="@+id/action_rate"
+      android:icon="@drawable/ic_star_white_48dp"
+      android:title="@string/rate_title"
+      app:showAsAction="ifRoom"
+      />
+
+  <item
+      android:id="@+id/action_info"
+      android:icon="@drawable/ic_information_white_48dp"
+      android:title="@string/info_title"
+      app:showAsAction="ifRoom"
+      />
+
+</menu>

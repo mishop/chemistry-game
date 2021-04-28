@@ -1,0 +1,36 @@
+<resources>
+  <string name="app_name">Chemistry game</string>
+
+  <!--Base game strings-->
+  <string name="high_score">BEST</string>
+  <string name="score">SCORE</string>
+  <string name="you_win">You Win!</string>
+  <string name="game_over">Game Over</string>
+  <string name="info_title">About</string>
+  <string name="continue_button">Continue</string>
+  <string name="rate_title">Rate</string>
+  <string name="try_again">Try again</string>
+  <string name="start_again">Start again</string>
+  <string name="ok" translatable="false">OK</string>
+  <string name="login" translatable="false">login</string>
+  <string name="logout" translatable="false">Log out</string>
+  <string name="status_exception_error" translatable="false">login</string>
+  <string name="signin_other_error" translatable="false">Error login</string>
+  <string name="players_exception" translatable="false">Player exeption</string>
+  <string name="instructions">Swipe to move the tiles. When two tiles with the same chemical element touch, they merge into one tile with a chemical element that is next in the Periodic Chart! Join elements and make Na tile!</string>
+
+  <!--Share message-->
+  <string name="share_title">Share</string>
+  <string name="current_points">My current score is</string>
+  <string name="try_beat_me">" ,can you beat me?:)"</string>
+  <string name="share_message_title">Hi! I\'ve found a very addictive game!</string>
+  <string name="share_dialog_title">Share with friends…</string>
+  <string name="share_message_here">It\'s here:</string>
+  <string name="share_app_link">https://goo.gl/KoQ9V5</string>
+
+  <!--Here your AdMob id-->
+  <string name="banner_ad_unit_id" translatable="false">ca-app-pub-6504229951563708/7471251412</string>
+  <string name="interstitial_ad_unit_id" translatable="false">ca-app-pub-6504229951563708/1734808610</string>
+  <string name="reward_ad_unit_id" translatable="false">ca-app-pub-6504229951563708/4539435539</string>
+  <string name="link_to_page" translatable="false">https://play.google.com/store/apps/details?id=com.Misho.Chemistry</string>
+</resources>

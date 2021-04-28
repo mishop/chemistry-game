@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.Misho.Chemistry"
+    >
+
+  <uses-permission android:name="android.permission.INTERNET"/>
+
+  <application
+      android:allowBackup="true"
+      android:fullBackupContent="true"
+      android:icon="@mipmap/ic_launcher"
+      android:label="@string/app_name"
+      android:supportsRtl="true"
+      android:theme="@style/GameTheme"
+      >
+    <activity
+        android:name="com.Misho.Chemistry.ui.activities.SplashScreenActivity"
+        android:configChanges="orientation"
+        android:screenOrientation="fullSensor"
+        android:theme="@style/SplashScreenTheme"
+        >
+
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN"/>
+
+        <category android:name="android.intent.category.LAUNCHER"/>
+      </intent-filter>
+    </activity>
+
+    <activity
+        android:name="com.Misho.Chemistry.ui.activities.GameActivity"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:configChanges="orientation"
+        android:screenOrientation="sensorPortrait"
+        >
+
+      <intent-filter>
+
+        <action android:name="android.intent.action.VIEW"/>
+
+        <category android:name="android.intent.category.DEFAULT"/>
+        <category android:name="android.intent.category.BROWSABLE"/>
+
+        <data android:host="1024game.com/"/>
+        <data android:scheme="http"/>
+        <data android:scheme="https"/>
+
+      </intent-filter>
+
+    </activity>
+    <meta-data
+        android:name="com.google.android.gms.games.APP_ID"
+        android:value="@string/app_id" />
+    <meta-data
+        android:name="com.google.android.gms.version"
+        android:value="@integer/google_play_services_version" />
+    <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
+    <meta-data
+        android:name="com.google.android.gms.ads.APPLICATION_ID"
+        android:value="ca-app-pub-6504229951563708~5994518214"/>
+  </application>
+
+</manifest>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "109440260004",
+    "firebase_url": "https://admob-app-id-5994518214.firebaseio.com",
+    "project_id": "admob-app-id-5994518214",
+    "storage_bucket": "admob-app-id-5994518214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109440260004:android:4fe3cead132749d7",
+        "android_client_info": {
+          "package_name": "com.Misho.Chemistry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109440260004-8sij3top0gves695df36t092mn5bs7h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEq8rZ0UV_qvJDPQ8luJfm2gZIOqpe1h8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

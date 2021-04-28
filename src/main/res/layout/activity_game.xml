@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:ads="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:background="@android:color/black"
+  tools:context=".ui.activities.GameActivity"
+  >
+
+  <FrameLayout
+    android:id="@+id/game_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    />
+
+  <TextView
+    android:id="@+id/win_text_view"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_above="@+id/fake_view"
+    android:layout_centerHorizontal="true"
+    android:layout_marginBottom="-15dp"
+    android:text="@string/you_win"
+    android:textColor="@android:color/white"
+    android:textSize="40sp"
+    android:visibility="gone"
+    />
+
+  <View
+    android:id="@+id/fake_view"
+    android:layout_width="0dp"
+    android:layout_height="10dp"
+    android:layout_centerInParent="true"
+    />
+
+  <Button
+    android:id="@+id/game_over_button"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/fake_view"
+    android:layout_marginTop="5dp"
+    android:layout_centerHorizontal="true"
+    android:background="@drawable/brown_background"
+    android:padding="10dp"
+    android:text="@string/try_again"
+    android:textColor="@android:color/white"
+    android:textSize="20sp"
+    android:visibility="gone"
+    />
+
+  <com.google.android.gms.ads.AdView
+    android:id="@+id/adView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_centerHorizontal="true"
+    ads:adSize="SMART_BANNER"
+    ads:adUnitId="@string/banner_ad_unit_id"
+    />
+
+</RelativeLayout>

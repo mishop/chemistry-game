@@ -1,0 +1,26 @@
+<resources>
+  <string name="app_name">Химия игра</string>
+
+  <!--Base game strings-->
+  <string name="high_score">ЛУЧШИЙ</string>
+  <string name="score">ОЧКИ</string>
+  <string name="you_win">Ты победил!</string>
+  <string name="game_over">Игра окончена!</string>
+  <string name="info_title">Об игре</string>
+  <string name="continue_button">Продолжить</string>
+  <string name="rate_title">Оценить</string>
+  <string name="try_again">Заново</string>
+  <string name="start_again">Ещё раз</string>
+  <string name="ok">OK</string>
+  <string name="instructions">Проводи пальцем, чтобы двигать плитки.Соединяй одинаковые элементы и попробуй получить элемент Na! \n Milovan Misho Petković</string>
+
+  <!--Share message-->
+  <string name="share_title">Поделиться с друзьями</string>
+  <string name="current_points">Я набрал </string>
+  <string name="try_beat_me">".Слабо меня уделать?)"</string>
+  <string name="share_message_title">Привет! Я наткнулся на очень прикольную игру.</string>
+  <string name="share_dialog_title">Поделись с друзьями...</string>
+  <string name="share_message_here">Скачать можно тут:</string>
+  <string name="share_app_link">https://goo.gl/KoQ9V5</string>
+
+</resources>

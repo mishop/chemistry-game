@@ -1,0 +1,26 @@
+<resources>
+  <string name="app_name">Chemia gra</string>
+
+  <!--Base game strings-->
+  <string name="high_score">BEST</string>
+  <string name="score">WYNIK</string>
+  <string name="you_win">You Win!</string>
+  <string name="game_over">Gra skończona</string>
+  <string name="info_title">O</string>
+  <string name="continue_button">Kontynuuj</string>
+  <string name="rate_title">Oceń</string>
+  <string name="try_again">Spróbuj ponownie</string>
+  <string name="start_again">Zacznij ponownie</string>
+  <string name="ok">OK</string>
+  <string name="instructions">Swipe to move the tiles. When two tiles with the same chemical element touch, they merge into one tile with chemical element incremented by 1! Join elements and make Na tile! \n Milovan Misho Petković</string>
+
+  <!--Share message-->
+  <string name="share_title">Udostępnij wiadomość</string>
+  <string name="current_points">Mój obecny wynik to</string>
+  <string name="try_beat_me">" , potrafisz go pobić?"</string>
+  <string name="share_message_title">Cześć! Znalazłam mega uzależniającą grę!</string>
+  <string name="share_dialog_title">Podziel się ze znajomymi...</string>
+  <string name="share_message_here">Jest tutaj:</string>
+  <string name="share_app_link">https://goo.gl/KoQ9V5</string>
+
+</resources>

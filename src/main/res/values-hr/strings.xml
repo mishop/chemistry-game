@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Hemija igra</string>
+
+  <!--Base game strings-->
+  <string name="high_score">NAJBOLJI</string>
+  <string name="score">REZULTAT</string>
+  <string name="you_win">Pobjedili ste!</string>
+  <string name="game_over">Izgubili ste!</string>
+  <string name="info_title">O igri</string>
+  <string name="rate_title">Ocjeni</string>
+  <string name="continue_button">Nastavite</string>
+  <string name="try_again">Pokušaj ponovo</string>
+  <string name="start_again">Počni Ponovo</string>
+  <string name="ok">Uredu</string>
+  <string name="instructions">Povucite na ekranu da biste pomakli elemente. Kada se dva elementa sastave oni naprave sledeći element. Cilj igre je napraviti Na! \n Milovan Misho Petković</string>
+
+  <!--Share message-->
+  <string name="share_title">Podjeli</string>
+  <string name="current_points">Moj trenutni rezultat je: </string>
+  <string name="try_beat_me">" , možeš li me pobediti? :)"</string>
+  <string name="share_message_title">Hej! Našao sam veoma zaraznu igru!</string>
+  <string name="share_dialog_title">Podjeli sa prijateljima…</string>
+  <string name="share_message_here">To je ovdje:</string>
+  <string name="share_app_link">https://goo.gl/BjbqzE</string>
+
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+  <string name="app_name">Chimie jeu</string>
+
+  <!--Base game strings-->
+  <string name="high_score">LE MEILLEUR SCORE</string>
+  <string name="score">SCORE</string>
+  <string name="you_win">Vous avez gagné!</string>
+  <string name="game_over">La partie est terminée!</string>
+  <string name="info_title">À propos</string>
+  <string name="continue_button">Continue</string>
+  <string name="rate_title">Taux</string>
+  <string name="try_again">Essayez encore</string>
+  <string name="start_again">Start again</string>
+  <string name="ok">Recommencez</string>
+  <string name="instructions">Balayez pour déplacer les éléments chimiques. Lorsque deux éléments chimiques se rencontrent, ils créent un nouvel élément à la suite. Le but du jeu est de créer L\'élément chimique Na! \n Milovan Misho Petković</string>
+
+  <!--Share message-->
+  <string name="share_title">Partager</string>
+  <string name="current_points">Mon résultat actuel est</string>
+  <string name="try_beat_me">" , Pouvez-vous me battre? :)"</string>
+  <string name="share_message_title">Salut! J\'ai trouvé un jeu très passionnant!</string>
+  <string name="share_dialog_title">Partager avec des amis …</string>
+  <string name="share_message_here">C\'est ici:</string>
+  <string name="share_app_link">https://goo.gl/KoQ9V5</string>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Хемија игрица</string>
+
+  <!--Base game strings-->
+  <string name="high_score">НАЈБОЉИ</string>
+  <string name="score">РЕЗУЛТАТ</string>
+  <string name="you_win">Победили сте!</string>
+  <string name="game_over">Изгубили сте!</string>
+  <string name="info_title">О игри</string>
+  <string name="rate_title">Оцени</string>
+  <string name="continue_button">Наставите</string>
+  <string name="try_again">Покушајте поново</string>
+  <string name="start_again">Играј поново</string>
+  <string name="ok">Уреду</string>
+  <string name="instructions">Повуците по екрану да бисте помакли елементе. Када се два хемијска елемента саставе они креиранју нови елемент следећи по реду у периодном систему елемената. Циљ игре је направити Na! \n Милован Мишо Петковић</string>
+
+  <!--Share message-->
+  <string name="share_title">Подели</string>
+  <string name="current_points">Освојио сам</string>
+  <string name="try_beat_me">" ,можеш ли ме победити?:)"</string>
+  <string name="share_message_title">Хеј! Нашао сам веома заразну игрицу!</string>
+  <string name="share_dialog_title">Подели са пријатељима…</string>
+  <string name="share_message_here">То је овде:</string>
+  <string name="share_app_link">https://goo.gl/KoQ9V5</string>
+
+</resources>

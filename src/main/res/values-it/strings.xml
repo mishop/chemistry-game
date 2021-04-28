@@ -1,0 +1,26 @@
+<resources>
+  <string name="app_name">Chimica gioco</string>
+
+  <!--Base game strings-->
+  <string name="high_score">MIGLIORE</string>
+  <string name="score">RISULTATO</string>
+  <string name="you_win">Vinci!</string>
+  <string name="game_over">Gioco finito</string>
+  <string name="info_title">Di</string>
+  <string name="continue_button">Continua</string>
+  <string name="rate_title">Grado</string>
+  <string name="try_again">Altra volta!</string>
+  <string name="start_again">Ricomincia</string>
+  <string name="ok">OK</string>
+  <string name="instructions">Battere per muovere le piastre. Quando due piastre con lo stesso elemento chimico si toccano, esse si uniscono formando una sola piastra con l’elemento chimico ingrandito per 1. Unisci gli elementi e forma la piastra di Na! \n Milovan Misho Petković</string>
+
+  <!--Share message-->
+  <string name="share_title">Distribuisca</string>
+  <string name="current_points">Il mio risultato momentaneo è</string>
+  <string name="try_beat_me">" , Puoi vincermi?:)"</string>
+  <string name="share_message_title">Ciao! Ho trovato un gioco davvero contagioso!</string>
+  <string name="share_dialog_title">Dividi con gli amici…</string>
+  <string name="share_message_here">È qui:</string>
+  <string name="share_app_link">https://goo.gl/KoQ9V5</string>
+
+</resources>

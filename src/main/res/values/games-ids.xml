@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Google Play game services IDs. Save this file as res/values/games-ids.xml in your project.-->
+<resources>
+  <!--app_id-->
+  <string name="app_id" translatable="false">642855799355</string>
+  <!--package_name-->
+  <string name="package_name" translatable="false">com.Misho.Chemistry</string>
+  <!--achievement Level 1-->
+  <string name="achievement_level_1" translatable="false">CgkIu5TE6doSEAIQAg</string>
+  <!--achievement Level 2-->
+  <string name="achievement_level_2" translatable="false">CgkIu5TE6doSEAIQAw</string>
+  <!--achievement Level 3-->
+  <string name="achievement_level_3" translatable="false">CgkIu5TE6doSEAIQBA</string>
+  <!--leaderboard Chemristry game-->
+  <string name="leaderboard_chemristry_game" translatable="false">CgkIu5TE6doSEAIQBQ</string>
+  <string name="leaderboard_id" translatable="false">CgkIu5TE6doSEAIQBQ</string>
+</resources>

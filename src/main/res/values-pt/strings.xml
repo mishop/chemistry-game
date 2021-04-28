@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Química jogos</string>
+
+  <!--Base game strings-->
+  <string name="high_score">MELHOR</string>
+  <string name="score">PONTUAÇÃO</string>
+  <string name="you_win">Você Venceu!</string>
+  <string name="game_over">Fim de Jogo</string>
+  <string name="info_title">Sobre</string>
+  <string name="continue_button">Continue</string>
+  <string name="rate_title">Avalie</string>
+  <string name="try_again">Tente Novamente</string>
+  <string name="start_again">Comece de novo</string>
+  <string name="ok">OK</string>
+  <string name="instructions">Swipe para mover os quadrados. Quando dois quadrados com o mesmo elemento químico se tocam, eles se juntam em um quadrado com o elemento químico aumentado em 1! Junte elementos e faça novos quadrados! \n Milovan Misho Petković</string>
+
+  <!--Share message-->
+  <string name="share_title">Compartilhar</string>
+  <string name="current_points">Meus pontos</string>
+  <string name="try_beat_me">" ,você consegue ganhar de mim?:)"</string>
+  <string name="share_message_title">Olá! Achei um jogo muito viciante!</string>
+  <string name="share_dialog_title">Compartilhe com os amigos…</string>
+  <string name="share_message_here">Está aqui:</string>
+  <string name="share_app_link">https://goo.gl/KoQ9V5</string>
+
+</resources>
